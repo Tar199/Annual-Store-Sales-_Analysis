@@ -1,4 +1,4 @@
-# Annual-Store-Sales-_Analysis
+# Annual-Store-Sales-Analysis
 # Objective:
 Developed a comprehensive annual sales report for ABC Store for the year 2022, aimed at understanding customer demographics, sales trends, and order statuses to enhance sales strategies for 2023.
 
