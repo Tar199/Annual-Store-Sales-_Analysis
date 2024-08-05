@@ -4,7 +4,7 @@ Developed a comprehensive annual sales report for ABC Store for the year 2022, a
 
 # Key Responsibilities:
 # Data Collection and Preparation:
-Gathered raw sales data from ABC Store's database.
+* Gathered raw sales data from ABC Store's database.
 Conducted data cleaning in Excel to replace raw values (e.g., "W" and "M") with proper formats ("Women" and "Men").
 Utilized Excel functions to create new attributes, such as categorizing age into age groups (Senior, Adult, Teen) and extracting month information from the date attribute.
 
