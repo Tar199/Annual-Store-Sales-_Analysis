@@ -45,4 +45,5 @@ Developed a comprehensive annual sales report for ABC Store for the year 2022, a
 * Increased user engagement and interactivity with the dashboard through the use of slicers for dynamic data filtering.
 
 
-![image](https://github.com/user-attachments/assets/1c5e03ac-a829-40cb-bea3-f85099f8e56e)
+![image](https://github.com/user-attachments/assets/cfd5a6bd-9b74-4180-8448-1eb796442f4a)
+
